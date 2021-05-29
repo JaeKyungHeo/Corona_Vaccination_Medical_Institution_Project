@@ -5,5 +5,5 @@
 ## Member
 | 김서연 | 허정용 |
 | :----: | :----: |
-| [@ksy991018](https://github.com/ksy991018) | [@JeongYougHeo](https://github.com/JeongYougHeo) |
+| [@ksy991018](https://github.com/ksy991018) | [@JaeKyungHeo](https://github.com/JaeKyungHeo) |
  
